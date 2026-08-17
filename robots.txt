@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-65ao80.hsteamid.com/sitemap.xml
